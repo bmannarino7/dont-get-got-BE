@@ -1,0 +1,4 @@
+Create mission class to hold an individual mission
+Create wallet class to hold 6 missions
+
+Create database model
